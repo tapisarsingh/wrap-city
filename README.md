@@ -31,7 +31,6 @@ To run the game locally, follow these steps:
 - **Move Left/Right:** `Arrow Keys` or `A/D`
 - **Jump:** `Spacebar`
 - **Shoot:** `Left Mouse Button` or `F`
-- **Pause:** `P`
 
 ![image](https://github.com/user-attachments/assets/a2be500b-f34b-40a4-bb51-61b16ceffa1d)
 
